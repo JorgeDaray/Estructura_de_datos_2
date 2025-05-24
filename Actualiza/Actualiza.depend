@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1670425957 source:d:\2 estructura de datos\practicas\actualiza\main.c
+	"../extras/Arches.h"
+	"../extras/Tomarc.h"
+	"../extras/Funscads.h"
+
+1664311533 d:\2 estructura de datos\practicas\extras\arches.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1663120192 d:\2 estructura de datos\practicas\extras\tomarc.h
+
+1667878157 d:\2 estructura de datos\practicas\extras\funscads.h
+	"Arches.h"
+
+1670425957 source:e:\trabajos_escuela\2 estructura de datos\practicas\actualiza\main.c
+	"../extras/Arches.h"
+	"../extras/Tomarc.h"
+	"../extras/Funscads.h"
+
+1664315133 e:\trabajos_escuela\2 estructura de datos\practicas\extras\arches.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1663123792 e:\trabajos_escuela\2 estructura de datos\practicas\extras\tomarc.h
+
+1667878157 e:\trabajos_escuela\2 estructura de datos\practicas\extras\funscads.h
+	"Arches.h"
+
+1670425957 source:e:\trabajos_escuela\cursados\2 estructura de datos\practicas\actualiza\main.c
+	"../extras/Arches.h"
+	"../extras/Tomarc.h"
+	"../extras/Funscads.h"
+
+1664315133 e:\trabajos_escuela\cursados\2 estructura de datos\practicas\extras\arches.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1663123792 e:\trabajos_escuela\cursados\2 estructura de datos\practicas\extras\tomarc.h
+
+1667878157 e:\trabajos_escuela\cursados\2 estructura de datos\practicas\extras\funscads.h
+	"Arches.h"
+

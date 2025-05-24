@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1662489944 source:d:\2 estructura de datos\practicas\ingresasec\src\arches.cpp
+	"arches.h"
+
+1662489944 d:\2 estructura de datos\practicas\ingresasec\include\arches.h
+	<stdio.h>
+	<stdlib.h>
+

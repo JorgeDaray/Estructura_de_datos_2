@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1663102612 source:d:\2 estructura de datos\practicas\escribereg\main.c
+	"../Actividad1/include/arches.h"
+
+1663034229 d:\2 estructura de datos\practicas\actividad1\include\arches.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

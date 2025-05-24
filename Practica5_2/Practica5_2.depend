@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1668620071 source:d:\2 estructura de datos\practicas\practica5_2\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"../extras/Arches.h"
+	"../extras/Tomarc.h"
+	"../extras/Funscads.h"
+	"../extras/Hazllave.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+
+1664311533 d:\2 estructura de datos\practicas\extras\arches.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1663120192 d:\2 estructura de datos\practicas\extras\tomarc.h
+
+1667878157 d:\2 estructura de datos\practicas\extras\funscads.h
+	"Arches.h"
+
+1668620876 d:\2 estructura de datos\practicas\extras\hazllave.h
+	"Arches.h"
+

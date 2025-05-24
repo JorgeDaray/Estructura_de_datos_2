@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1663104320 source:d:\2 estructura de datos\practicas\leereg\main.c
+	"../Actividad1/include/arches.h"
+
+1663034229 d:\2 estructura de datos\practicas\actividad1\include\arches.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1663123414 source:d:\2 estructura de datos\practicas\tomarc\tomar.c
+	"../Actividad1/include/arches.h"
+
